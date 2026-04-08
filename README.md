@@ -100,8 +100,8 @@ Here are some of the live websites I have developed:
 ## 📫 Contact
 
 - **Email:** `your.email@example.com`  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+- **LinkedIn:** [[linkedin.com/in/yourprofile]](https://www.linkedin.com/in/aswathy-k-p/)
+
 
 ---
 
