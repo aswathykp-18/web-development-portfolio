@@ -83,9 +83,9 @@
 ---
 
 ## 📫 Contact
-- **Email:** `your.email@example.com`  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+- **Email:** `1991aswathykp@gmail.com`  
+
+
 
 ---
 
