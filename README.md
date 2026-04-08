@@ -1,8 +1,8 @@
 # Hi, I'm Aswathy 👋
 
-**Full-Stack Web Developer | E-commerce Specialist | IT & Digital Marketing Professional**  
+**Full-Stack Web Developer | E-commerce Specialist | IT & Digital Marketing Professional**
 
-🚀 I’m passionate about building **scalable web applications, e-commerce platforms, and IT solutions**, combining backend logic, frontend design, and digital marketing analytics.
+I build **scalable web applications, e-commerce platforms, and IT solutions**, combining backend development, frontend design, and digital marketing expertise.
 
 ---
 
@@ -70,14 +70,38 @@
 ---
 
 ## 🌐 Projects
+
+### **Major Projects**
 - **CS-Cart Multi-Vendor Marketplace** – Real-time sales & inventory sync  
 - **WooCommerce E-commerce Websites** – Optimized performance and payment integration  
 - **Online/Offline POS System Web App** – ERP & retail tech management  
 
+### **Live Websites**
+Here are some of the live websites I have developed:
+
+- [Jhanswa](https://jhanswa.com/) – Corporate & e-commerce website  
+- [Coach Jafardeen](https://coachjafardeen.com/) – Personal coaching & blog site  
+- [AAL](https://aal.ae/) – Corporate website with multi-page design  
+- [Pisces Vessel](http://piscesvessel.com/) – Shipping & logistics company website  
+- [Bookmark](https://bookmark.ae/) – Online marketing platform website  
+- [WebStudio](https://webstudio.ae/) – Web design & development agency website  
+- [Battery Planets](https://www.batteryplanets.com/) – E-commerce electronics store  
+- [Nour Vasin Art](https://nourvasinart.com/) – Artist portfolio & gallery website  
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswathy18&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswathy18&layout=compact&theme=radical)
+
+---
+
 ## 📫 Contact
-- **Email:** `1991aswathykp@gmail.com`  
 
-
+- **Email:** `your.email@example.com`  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
 
 ---
 
