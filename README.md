@@ -74,14 +74,6 @@
 - **WooCommerce E-commerce Websites** – Optimized performance and payment integration  
 - **Online/Offline POS System Web App** – ERP & retail tech management  
 
----
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswathy18&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswathy18&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact
 - **Email:** `1991aswathykp@gmail.com`  
 
